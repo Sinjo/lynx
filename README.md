@@ -1,3 +1,9 @@
+⚠️ **Unsupported:** This fork only exists to keep [sinjo.dev](https://sinjo.dev/) going since the upstream jpanther/lynx was abandoned. ⚠️
+
+It is public because a friend wanted to copy-paste some fixes.
+
+Do not file issues or send me PRs. I will close them. I simply do not care about supporting this software.
+
 # Lynx
 
 Lynx is designed to be a simple links page powered by [Hugo](https://gohugo.io). It's built using Tailwind CSS and inspired by services like LinkTree.
