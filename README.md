@@ -1,4 +1,4 @@
-⚠️ **Unsupported:** This fork only exists to keep [sinjo.dev](https://sinjo.dev/) going since the upstream jpanther/lynx was abandoned. ⚠️
+⚠️ **Unsupported:** This fork only exists to keep [sinjo.dev](https://sinjo.dev/) going since the [upstream](https://github.com/jpanther/lynx) was abandoned. ⚠️
 
 It is public because a friend wanted to copy-paste some fixes.
 
